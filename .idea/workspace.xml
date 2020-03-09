@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2199e17-32ee-4d87-b39d-58305997a04b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day03_locators/LinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day03_locators/VerifyLogIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,26 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassNameExample">
+  <component name="RunManager" selected="Application.gitPractice">
     <configuration name="ClassNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day05_moreXpath.ClassNameExample" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.day05_moreXpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day04_xpath.GetAttribute" />
-      <module name="fall2019seleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day04_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gitPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day05_moreXpath.gitPractice" />
+      <module name="fall2019seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day05_moreXpath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gitPractice" />
         <item itemvalue="Application.ClassNameExample" />
         <item itemvalue="Application.TextMethod" />
         <item itemvalue="Application.XpathPractice" />
         <item itemvalue="Application.getAttribute_part2" />
-        <item itemvalue="Application.GetAttribute" />
       </list>
     </recent_temporary>
   </component>
