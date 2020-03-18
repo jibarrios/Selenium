@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2199e17-32ee-4d87-b39d-58305997a04b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Office_Hours/officeHours.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04_xpath/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04_xpath/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day04_xpath/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day04_xpath/WebDriverFactory.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +42,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="settings.editor.splitter.proportion" value="0.23372781" />
   </component>
@@ -59,79 +64,102 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gitPractice">
-    <configuration name="ClassNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day05_moreXpath.ClassNameExample" />
+  <component name="RunManager" selected="TestNG.BeforeAndAfterTest">
+    <configuration name="BeforeAndAfterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day05_moreXpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testIntro.BeforeAndAfterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day04_xpath.TextMethod" />
+    <configuration name="TestNGAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day04_xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testIntro.TestNGAssertionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day04_xpath.XpathPractice" />
+    <configuration name="TestNGAssertionTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day04_xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testIntro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getAttribute_part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day04_xpath.getAttribute_part2" />
+    <configuration name="TestNGAssertionTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day04_xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testIntro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gitPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day05_moreXpath.gitPractice" />
+    <configuration name="TestNGAssertionTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day05_moreXpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testIntro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testIntro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gitPractice" />
-        <item itemvalue="Application.ClassNameExample" />
-        <item itemvalue="Application.TextMethod" />
-        <item itemvalue="Application.XpathPractice" />
-        <item itemvalue="Application.getAttribute_part2" />
+        <item itemvalue="TestNG.BeforeAndAfterTest" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test5" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test4" />
+        <item itemvalue="TestNG.TestNGAssertionTest" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test2" />
       </list>
     </recent_temporary>
   </component>
