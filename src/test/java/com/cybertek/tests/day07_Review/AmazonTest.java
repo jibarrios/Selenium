@@ -1,6 +1,6 @@
 package com.cybertek.tests.day07_Review;
 
-import com.cybertek.tests.day04_xpath.WebDriverFactory;
+import com.cybertek.Utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

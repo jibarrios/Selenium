@@ -1,11 +1,9 @@
 package com.cybertek.tests.day08_ReviewPart2;
 
-import com.cybertek.tests.day04_xpath.WebDriverFactory;
+import com.cybertek.Utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
-import java.sql.Driver;
 
 public class VytrackTest {
     public static void main(String[] args) throws InterruptedException {

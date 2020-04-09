@@ -1,10 +1,9 @@
 package com.cybertek.tests.day04_xpath;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
+import com.cybertek.Utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TextMethod {
     public static void main(String[] args) {
